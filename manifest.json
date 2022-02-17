@@ -1,0 +1,50 @@
+{
+ "name": "PNBTUTOR",
+ "short_name": "PNBTUTOR",
+ "description": "Informasi Tutorial Tekno",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "Warna Address Bar (Hex)",
+ "start_url": "https://www.pnbtutor.id/",
+ "background_color": "Warna Background (Hex)",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "PNBTUTOR",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi4Mymiqo57tCvHZYssu0LhP0Ld-4oAZFRZBAjyrYMBHRo1o3wAJLrbYE5Oj2vZiR5j-xnJd8-iu87IYhMPy47ALAFTpMztWPndiYt9wvmTlVU1SqAWXRU_W9JNlhkOblsF-e6cds3bQbFdGmVD11sN4XWXFV5a6sNsIkqfdQKfCvpzjDKn7faxUMIB=s16000",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg6EhilEvYy0t3Q7HYCrgAamJSDIwCgRdGYyY8tmNct5QzM3krq_2UGVxOvn5niXh9o9kJb46vmCic-Ci5Q1-gsKkTQZlBpLbpVWtpu0-TvCp2QupO2-ZYizBiqedzm2Oe3CiRRPQTxLtDnBP0e__Z5uCP2nepF0Yq-QHtrP99PhW8pu8jh1drVBrcV=s16000",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiPjB-9qWiKLsH5J-plKBluWWI_T2ZXd303kbd2BoYH2HseLvaDxrq49O6jDJUF3T5zkObNcLJfGLqFJarO6FiyMaWQBUlxjVwTE2eNzypO59LHtsJNjKMMDjVdAVglNCLHQzHKPBFhKVLPGyvc01G-SglJ_Nz7bchLnR15glzj_J89tNHm8g6SfvdT=s16000",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiCNogz4GMq8VcZSNxSv5NkrKWzr2W0G03TEJDHmNyGiGa9aWAbeYWDLrlVJjClJk4Ii_pMK_LpYyruw0-nDJflUj_yfTni5tghOH5MDkRF4j4otB3GXIKAmxRmNqEuT9dKeSstjbFfvSmgF9aTFnO8ZuYfamL1elC2BzN-ABYKptJHRWkOvrOgSKt6=s16000",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjkIpVgpFw5E1KcPoel1A0mQYi-WJ1BAGJkW1DaSjk-87I2C5SK9M3IxLwszZad0YBKGy7yB9px8Hp7IXVl6zGkVTVmPWD6p66mk0T2vxRVrUfyb-DHiwdmGi2b2ugp2Ts4Ayp_A2QkPhy-BbAMV2wfCVbgRnlE8ZbtZCFkZPPx9gsvy_pRd9-9xhSd=s16000",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhbb5fxOU8CJIcIiTXdPouNBc5FQy9yCZMl6GiJd5xHVDoQxyjnv5G6OhyiKeAkNhJ4oYbL25DUK30PcrsxVBsP6L5LTvWis-9HLTqHmf1woTek1KH9zGiYFPuLC8XXanc3TnZHkuyui9nBNOcdAPzfaMtgrt4sDWY9Ic3P8wlOcleBrFQ6KtqCrMC4=s16000",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjuUOsi66DMMsIQehwmh0BsOMiJOVl0nDRA6jThO9C1cQVo_d0DMeTlMoYb3UHKzjPcoTz1_Rv7dCpH6YXwl3mAc8PX3Y6A2pJ_HSfEQxGXtPV9Q9nrmREVzoX8670dpM8qu_RT1zky95W0nWEnCAQxpJokdxgsw93FgWPV2WNJ6D_5x3Y0bMW8ObJ3=s16000",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
