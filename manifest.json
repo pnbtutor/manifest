@@ -1,15 +1,16 @@
 {
- addEventListener("fetch", event => {
-  const data = {
-    name: "Pnbtutor",
-    short_name: "Pnbtutor",
-    display: "standalone",
-    prefer_related_applications: false,
-    start_url: ".",
-    scope: "\/",
-    background_color: "#fff",
-    theme_color: "#01579b",
-    description: "Informasi Tutorial Tekno.",
+ "name": "Pnbtutor",
+ "short_name": "Pnbtutor",
+ "description": "Informasi Tutorial Tekno",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#01579b",
+ "start_url": "https://www.pnbtutor.id/",
+ "background_color": "#01579b",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "version": "1.0.0",
+ "author": "Pnbtutor",
  "icons": [{
     "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi4Mymiqo57tCvHZYssu0LhP0Ld-4oAZFRZBAjyrYMBHRo1o3wAJLrbYE5Oj2vZiR5j-xnJd8-iu87IYhMPy47ALAFTpMztWPndiYt9wvmTlVU1SqAWXRU_W9JNlhkOblsF-e6cds3bQbFdGmVD11sN4XWXFV5a6sNsIkqfdQKfCvpzjDKn7faxUMIB=s16000",
     "sizes": "36x36",
