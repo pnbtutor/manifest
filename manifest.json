@@ -1,50 +1,38 @@
 {
- "name": "Pnbtutor",
- "short_name": "Pnbtutor",
- "description": "Informasi Tutorial Tekno",
- "lang": "id",
- "dir": "ltr",
- "theme_color": "#01579b",
- "start_url": "https://www.pnbtutor.id/",
- "background_color": "#01579b",
- "display": "standalone",
- "orientation": "portrait-primary",
- "version": "1.0.0",
- "author": "Pnbtutor",
- "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEi4Mymiqo57tCvHZYssu0LhP0Ld-4oAZFRZBAjyrYMBHRo1o3wAJLrbYE5Oj2vZiR5j-xnJd8-iu87IYhMPy47ALAFTpMztWPndiYt9wvmTlVU1SqAWXRU_W9JNlhkOblsF-e6cds3bQbFdGmVD11sN4XWXFV5a6sNsIkqfdQKfCvpzjDKn7faxUMIB=s16000",
-    "sizes": "36x36",
-    "type": "image/png",
-    "density": "0.75"
-  }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg6EhilEvYy0t3Q7HYCrgAamJSDIwCgRdGYyY8tmNct5QzM3krq_2UGVxOvn5niXh9o9kJb46vmCic-Ci5Q1-gsKkTQZlBpLbpVWtpu0-TvCp2QupO2-ZYizBiqedzm2Oe3CiRRPQTxLtDnBP0e__Z5uCP2nepF0Yq-QHtrP99PhW8pu8jh1drVBrcV=s16000",
+  "name": "Pnbtutor.id",
+  "short_name": "Pnbtutor",
+  "start_url": "https://www.pnbtutor.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#7975ff",
+  "description": "Teknologi informasi dan komunikasi terkini, mengulas seputar tutorial Smartphone dan Komputer",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihRjR_3TMf0Io-vSgVzktrVme9QWsfWEWC284Ii2FFTHkB0pr2SMyWX-cu3RXongHwrExDnDI60GycqcBzxakdxo3qGkaOQ0kr_tFvLfThCIYGs43h0ta8nPXTbGCMiKBTdYnRkKSJ0j0xp6iGPWlMYYtOTH-3JXSqKxRxBn3mWKOK1S8yxzf1cbU6/s1600/android-icon-48x48.png",
     "sizes": "48x48",
-    "type": "image/png",
-    "density": "1.0"
+    "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiPjB-9qWiKLsH5J-plKBluWWI_T2ZXd303kbd2BoYH2HseLvaDxrq49O6jDJUF3T5zkObNcLJfGLqFJarO6FiyMaWQBUlxjVwTE2eNzypO59LHtsJNjKMMDjVdAVglNCLHQzHKPBFhKVLPGyvc01G-SglJ_Nz7bchLnR15glzj_J89tNHm8g6SfvdT=s16000",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNT9yIJt4_GctobUBs8LGWLS6CjHmN3uA2lcQ5pB-LkEjhvQZAhbNTTAAchOwA97eLg2aFGwoNECsAVMSbyVH6utjhkJOyM79mLEiKEAvoJCdpq94mftqdmZoZU76V8dLvVonGL7Nam6K9prXhRxsbz4HF52PSLk3z2rbPPNWFOTidCU4vV3juuxB5/s1600/android-icon-72x72.png",
     "sizes": "72x72",
-    "type": "image/png",
-    "density": "1.5"
+    "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiCNogz4GMq8VcZSNxSv5NkrKWzr2W0G03TEJDHmNyGiGa9aWAbeYWDLrlVJjClJk4Ii_pMK_LpYyruw0-nDJflUj_yfTni5tghOH5MDkRF4j4otB3GXIKAmxRmNqEuT9dKeSstjbFfvSmgF9aTFnO8ZuYfamL1elC2BzN-ABYKptJHRWkOvrOgSKt6=s16000",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj90ghWyzRuPmubbTbFWu4cinZ-01JSVVLpuUQUur37qSHmeByR0Dr-0A019ledk5kXEXwp4YveuRccp8W68abfumVO5dPt_GAua9m0HtQEon0w0moeVMk4EtLCXczgjbEABfEkN9U7YKHegZTbQQPlxsMjfMZt5fFTdJq2arRbCmdrl4rcy-o9lG3W/s1600/android-icon-96x96.png",
     "sizes": "96x96",
-    "type": "image/png",
-    "density": "2.0"
+    "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjkIpVgpFw5E1KcPoel1A0mQYi-WJ1BAGJkW1DaSjk-87I2C5SK9M3IxLwszZad0YBKGy7yB9px8Hp7IXVl6zGkVTVmPWD6p66mk0T2vxRVrUfyb-DHiwdmGi2b2ugp2Ts4Ayp_A2QkPhy-BbAMV2wfCVbgRnlE8ZbtZCFkZPPx9gsvy_pRd9-9xhSd=s16000",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAg7GOi0qlxEQM8LkpSjF4jYWX8e_9OswG89DEUIn-63zZdI0hDvoKGXLd7LwNDqlb08P5n_0Z3i-Otoivz6n1bFFM2J0S90HT0m9Eo6UbhyPXqK4ji3uaCorGcU1cRYswNg2APszXdFJaz3IUgX2rRwm4vOOMJkZOE6wThxohpfNrwpzk9YP7vqfB/s1600/android-icon-144x144.png",
     "sizes": "144x144",
-    "type": "image/png",
-    "density": "3.0"
+    "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhbb5fxOU8CJIcIiTXdPouNBc5FQy9yCZMl6GiJd5xHVDoQxyjnv5G6OhyiKeAkNhJ4oYbL25DUK30PcrsxVBsP6L5LTvWis-9HLTqHmf1woTek1KH9zGiYFPuLC8XXanc3TnZHkuyui9nBNOcdAPzfaMtgrt4sDWY9Ic3P8wlOcleBrFQ6KtqCrMC4=s16000",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumlxb_QXK9Qc9Fs8MHwn8hy38hBdV_Bt-5ExGE1RJ8f95DP-Qe3-PmVcuBJXkOUR2UNWFct3n9gQIjlJsRzP3YIi7jnrjmiUeVqUSst0fcVCIZKri31rZvMw4LkzoqNblba6NYiezwE7sCkwyXkiaiOVPh5xzqnl9wzA_KStVYFAfBMKdtGI1vW_w/s1600/ms-icon-150x150.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimVoeSRuzHii6vlT49qZ05j0ipETemzAIXpWetuUDE7XfrU_KFXi4yqkm9FPYJXHhVS2_bkFZ8q3ASZjubPQ4dRUqd6-QmKFR4WRb-s2dzzzYw0ry-CoEncQrbYrHOclm6dp1OCHCRVFC6Eh8X4HE2m3zkNPDzUTJkK4D1QxFxHqa9tvS4-N3fGxnh/s1600/android-icon-192x192.png",
     "sizes": "192x192",
-    "type": "image/png",
-    "density": "4.0"
+    "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjuUOsi66DMMsIQehwmh0BsOMiJOVl0nDRA6jThO9C1cQVo_d0DMeTlMoYb3UHKzjPcoTz1_Rv7dCpH6YXwl3mAc8PX3Y6A2pJ_HSfEQxGXtPV9Q9nrmREVzoX8670dpM8qu_RT1zky95W0nWEnCAQxpJokdxgsw93FgWPV2WNJ6D_5x3Y0bMW8ObJ3=s16000",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY40eJdVZrD3MqOUZ_IZS3_YlH43_SzFCHPYxFUwWxShgOtP2BHrZ9p3hIUqWad3KeppCgR1I907xvnQmA4Ks10JSgIcKhhG1Bf6unjEiXI005bBm5vrk98WV4pxfzQXTkgAyd98WyzyUA2MUYjnkbV9rYZq-KhNa86RZb5cQo2jxFjEJ93oK9FWyO/s16000/android-icon-512x512.PNG",
     "sizes": "512x512",
-    "type": "image/png",
-    "density": "5.0"
+    "type": "image/png"
   }]
 }
